@@ -1,0 +1,16 @@
+{
+"companyName": "U. Alaska Fairbanks",
+"productName": "Vehicle Simulation In Unity",
+"productVersion": "0.1",
+"dataUrl": "UnityATVBuildWebGL.data.unityweb",
+"wasmCodeUrl": "UnityATVBuildWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "UnityATVBuildWebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.38f1"
+}
